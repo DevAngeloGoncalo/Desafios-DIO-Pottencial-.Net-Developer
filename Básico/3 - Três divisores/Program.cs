@@ -12,7 +12,7 @@ namespace Desafio3
             for (int i = 1; i <= n; i++)
             {
                 // TODO: Crie as outras condições necessárias para a resolução do desafio:
-                if (n % i == 0)
+                if (n % i == 0) //Verifica se é divisível
                 {
                     count++;
                 }

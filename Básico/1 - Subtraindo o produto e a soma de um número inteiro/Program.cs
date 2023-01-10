@@ -11,11 +11,11 @@ namespace desafio1
             int p = 1, s = 0;
             while (n > 0)
             {
-                int l = n % 10;
+                int l = n % 10; //Seleciona o numero a direita
                 // TODO: Crie as outras condições necessárias para a resolução do desafio:
-                p *= l;
+                p *= l; 
                 s += l;
-                n /= 10;
+                n /= 10; //Remove o numero a direita
             }
             Console.WriteLine("aa");
             Console.WriteLine(p-s);
