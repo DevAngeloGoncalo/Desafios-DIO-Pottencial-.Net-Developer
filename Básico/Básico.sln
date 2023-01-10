@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio1", "1 - Subtraindo o produto e a soma de um número inteiro\desafio1.csproj", "{8269838E-990C-4221-8A00-C17A8F5BF3B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio2", "2 - Encaixa ou não\Desafio2.csproj", "{EDF30B09-CFA2-4456-BE76-905FD4A3816A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio3", "3 - Três divisores\Desafio3.csproj", "{D6D3DCC0-A57F-428B-9C9F-4A824C56126A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8269838E-990C-4221-8A00-C17A8F5BF3B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8269838E-990C-4221-8A00-C17A8F5BF3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8269838E-990C-4221-8A00-C17A8F5BF3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8269838E-990C-4221-8A00-C17A8F5BF3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF30B09-CFA2-4456-BE76-905FD4A3816A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF30B09-CFA2-4456-BE76-905FD4A3816A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF30B09-CFA2-4456-BE76-905FD4A3816A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF30B09-CFA2-4456-BE76-905FD4A3816A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D3DCC0-A57F-428B-9C9F-4A824C56126A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D3DCC0-A57F-428B-9C9F-4A824C56126A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D3DCC0-A57F-428B-9C9F-4A824C56126A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D3DCC0-A57F-428B-9C9F-4A824C56126A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D722A5E-004B-4956-A9D9-7E27614B685B}
+	EndGlobalSection
+EndGlobal
